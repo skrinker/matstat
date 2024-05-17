@@ -22,7 +22,7 @@
 
 ## Формулы
 
-1. **Выборочное среднее (\(\bar{x}\))**:
+1. **Выборочное среднее - <img src="https://latex.codecogs.com/gif.latex?O_t=\text (\(\bar{x}\))** t " /> :
    \[
    \bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
    \]
